@@ -44,28 +44,28 @@ const server = http.createServer((req, res) => {
         </thead>
         <tbody>
           <tr>
-            <td>SV001</td>
-            <td>Nguyễn Văn A</td>
-            <td>01/01/2000</td>
-            <td>Hà Nội</td>
-            <td>nguyenvana@gmail.com</td>
-            <td>0123456789</td>
+            <td>M2524018</td>
+            <td>Trần Anh Duy</td>
+            <td>22/10/1997</td>
+            <td>Cần Thơ</td>
+            <td>DuyM2524018@gstudent.ctu.edu.vn</td>
+            <td>0375955699</td>
           </tr>
           <tr>
-            <td>SV002</td>
-            <td>Trần Thị B</td>
-            <td>15/05/2001</td>
-            <td>TP.HCM</td>
-            <td>tranb@gmail.com</td>
-            <td>0987654321</td>
+            <td>M2524___</td>
+            <td>Lê Xuân Tùng</td>
+            <td>10/02/1997</td>
+            <td>Cần Thơ</td>
+            <td>________________</td>
+            <td>________________</td>
           </tr>
           <tr>
-            <td>SV003</td>
-            <td>Lê Văn C</td>
-            <td>20/12/1999</td>
-            <td>Đà Nẵng</td>
-            <td>levanc@gmail.com</td>
-            <td>0912345678</td>
+            <td>M2524___</td>
+            <td>Nguyễn Ngọc Nữ</td>
+            <td>__/__/____</td>
+            <td>Cần Thơ</td>
+            <td>________________</td>
+            <td>________________</td>
           </tr>
         </tbody>
       </table>
